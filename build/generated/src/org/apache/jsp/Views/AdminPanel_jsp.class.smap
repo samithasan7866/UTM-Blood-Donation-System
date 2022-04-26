@@ -1,0 +1,18 @@
+SMAP
+AdminPanel_jsp.java
+JSP
+*S JSP
+*F
++ 0 AdminPanel.jsp
+Views/AdminPanel.jsp
++ 1 AdminPagesNavHeaderStyles.jsp
+Views/AdminPagesNavHeaderStyles.jsp
++ 2 AdminPagesNavHeader.jsp
+Views/AdminPagesNavHeader.jsp
+*L
+5,10:50
+5#1,33:60
+14#0,37:93
+5#2,8:130
+50#0,117:138
+*E

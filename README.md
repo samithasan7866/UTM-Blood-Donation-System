@@ -1,5 +1,6 @@
 # UTM-Blood-Donation-System
 
+
 1. Overview
 2. Module description:
  Login:
@@ -124,8 +125,7 @@ We choose this pattern for our project, and some of the main reasons are,
 2. And as there is segregation of the code among three levels. It’s a bit easy to divide and organize our application logic.
 3. And of course it helped us during the planning phase because it gives us an outline of how to arrange the code.
 4. Components which are re-usable, easy to maintain and can different components can be independently deployed.
-5. And last but not the least multiple views. Using this pattern developing different view components are easily achievable. And as the sections are independent, any changes in a certain section of the application will never affect the entire architecture.
-![image](https://user-images.githubusercontent.com/71214071/165244351-96d090c9-aa20-4d36-b0bd-d4c408186e73.png)
+5. And last but not the least multiple views. Using this pattern developing different view components are easily achievable. And as the sections are independent, any changes in a certain section of the application will never affect the entire architecture.![image](https://user-images.githubusercontent.com/71214071/165244351-96d090c9-aa20-4d36-b0bd-d4c408186e73.png)
 
 ![image](https://user-images.githubusercontent.com/71214071/165244402-f013e51b-f9da-48a9-aebd-3772e9528ec0.png)
 
